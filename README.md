@@ -1,2 +1,2 @@
 # Simple-Word
-This is the Simple Word Processor. This minimal software allows for a no-distractions and no-frills typeing experience. 
+This is the Simple Word Processor. A minimal software that allows for a no-distractions and no-frills typing experience. 
